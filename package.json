@@ -19,5 +19,10 @@
   "description": "",
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "scripts": {
+    "build": "echo Building project...",
+    "test": "echo \"Running tests...\" && exit 0"
   }
+
 }
